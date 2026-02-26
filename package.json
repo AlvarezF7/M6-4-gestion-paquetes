@@ -1,0 +1,19 @@
+{
+  "name": "m6-4-gestion-paquetes",
+  "version": "1.0.0",
+  "description": "- Node.js.\r  - Express.\r  -",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.19",
+    "express": "^5.2.1"
+  }
+}
